@@ -47,7 +47,7 @@ const App = () => {
         </div>
 
         <div className="">
-          <h1 className="text-[2vw] font-bold">Principle Loan Amount:-</h1>
+          <h1 className="text-[2vw] font-bold">Length of Loan:-</h1>
           <input type="text" className="bg-amber-100 border p-2 rounded-xl"/>
         </div>
       </main>
